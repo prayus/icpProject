@@ -20,6 +20,7 @@ actor DBank {
       Debug.print(debug_show(currentVariable));
     } else {
       Debug.print("Not sufficient amount.");
+      Debug.print("Hello");
     } 
   };
 
